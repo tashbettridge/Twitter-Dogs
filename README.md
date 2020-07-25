@@ -4,13 +4,12 @@
 You will need an installation of Python
 plus the following libraries:
 
-pandas
-NumPy
-requests
-tweepy
-json
-
-A text editor, like VS Code or Atom.
+* pandas
+* NumPy
+* requests
+* tweepy
+* json
+* A text editor, like VS Code or Atom.
 
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 Installation links for softwares:
