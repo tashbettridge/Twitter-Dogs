@@ -1,4 +1,4 @@
-# WeRateDogs
+# WeRateDogs - Twitter Dogs
 
 >Software needed:
 You will need an installation of Python
