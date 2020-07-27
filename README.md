@@ -1,6 +1,20 @@
 # WeRateDogs - Twitter Dogs
+>By Tash
 
->Software needed:
+
+<p align="center">
+<img max-height=200 height=200 src="https://github.com/ciph3rwoman/Twitter-Dogs/blob/master/dog.PNG"/>
+</p>
+
+This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
+
+1. [ Description. ](#desc)
+2. [ Installation Files. ](#usage)
+3. [ Summary. ](#files)
+4. [  Key Insights for Presentation. ](#key)
+
+# Description:
+<a name="desc"></a>
 You will need an installation of Python
 plus the following libraries:
 
@@ -12,14 +26,21 @@ plus the following libraries:
 * A text editor, like VS Code or Atom.
 * A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
-# Installation links for softwares:
+# Installation Files:
+<a name="usage"></a>
 * Git for windows - for terminal application using Git Bash
 * Python using Anaconda (latest version for windows)
 * Visual Studio Code Editor (for windows)
 * Jupyter Notebooks 
 
 # Summary:
+<a name="files"></a>
 >The whole report can be summarized into the following 2 files which are present in this repository:
 
-For getting a brief of the Data Wrangling process, check wrangle_report.html
-For visualizations and important insights, check act_report.pdf
+* For getting a brief of the Data Wrangling process, check wrangle_report.html
+* For visualizations and important insights, check act_report.pdf
+
+# Key Insights for Presentation 
+<a name="key"></a>
+
+
