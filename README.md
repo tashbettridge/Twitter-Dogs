@@ -1,4 +1,4 @@
-# WeRateDogs - Twitter Dogs
+# Twitter Dogs
 >By Tash
 
 
@@ -6,7 +6,7 @@
 <img max-height=200 height=200 src="https://github.com/ciph3rwoman/Twitter-Dogs/blob/master/dog.PNG"/>
 </p>
 
-This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
+The dataset has commonly used tweets about dogs. This is categorised by dog breed and gender. 
 
 1. [ Description. ](#desc)
 2. [ Installation Files. ](#usage)
