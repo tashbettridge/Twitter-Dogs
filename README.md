@@ -34,6 +34,12 @@ plus the following libraries:
 * Jupyter Notebooks 
 
 # Summary:
+
+Based on the findings:
+Charlie is the most common dog name with Charlie 12
+• Followed by Oliver (11) Lucy (11), Cooper (11), Lola (10) and Tucker (10)
+
+# Information
 <a name="files"></a>
 >The whole report can be summarized into the following 2 files which are present in this repository:
 
