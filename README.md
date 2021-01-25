@@ -37,7 +37,13 @@ plus the following libraries:
 
 Based on the findings:
 Charlie is the most common dog name with Charlie 12
-• Followed by Oliver (11) Lucy (11), Cooper (11), Lola (10) and Tucker (10)
+
+Followed by: 
+- Oliver (11) 
+- Lucy (11)
+- Cooper (11)
+- Lola (10) 
+- Tucker (10)
 
 # Information
 <a name="files"></a>
